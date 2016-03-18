@@ -22,9 +22,9 @@ For example the following terms (and child terms below them) have been added:
 We are also looking at using terms from the [Biological imaging methods](http://www.ebi.ac.uk/ols/beta/ontologies/fbbi) ontology or importing them into EFO.
 
 
-### Samples and Library Annotation
+### Samples, Experimental Variables and Library Annotation
 
-For sample annotation we are using [NCBITaxon](http://www.ebi.ac.uk/ols/beta/ontologies/ncbitaxon) for organisms, and EFO so far for cell lines.  EFO should also cover most sample characteristics when we move to other types of imaging data with perhaps more detailed sample information.
+For sample annotation we are using [NCBITaxon](http://www.ebi.ac.uk/ols/beta/ontologies/ncbitaxon) for organisms, and EFO so far for cell lines.  EFO should also cover most sample characteristics when we move to other types of imaging data with perhaps more detailed sample information.  It also provides a description of the experimental variables or conditions we have seen so far such as environmental stress, compound treatment, media and genotype.
 
 
 We are using a few controlled vocabulary terms when describing control wells in High Content Screens e.g. positive control, negative control, empty well etc. These can be found in the [controlled vocabulary and ontology sources](https://docs.google.com/spreadsheets/d/1S9of23dD8vY1QUv90RV_-Ugu0h6yTeNobuj92-OoSl8/edit?usp=sharing) spreadsheet.
