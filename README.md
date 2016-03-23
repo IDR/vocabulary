@@ -9,7 +9,7 @@ We have a spreadsheet outlining the [controlled vocabulary and ontology sources]
 
 ### Dataset Descriptors
 
-For high level information describing the type of dataset, e.g. "this is a primary RNAi High Content Screen imaging dataset",  we have put together some terms to describe aspects of the High Content Screens and the protocols describing the steps in the screen.  These terms are in the [Experimental Factor Ontology](http://www.ebi.ac.uk/efo) (EFO).
+For high level information describing the type of dataset, e.g. "this is a primary RNAi High Content Screen imaging dataset",  we have put together some terms to describe aspects of the High Content Screens and the protocols describing the steps in the screen.  We have submitted these terms to the [Experimental Factor Ontology](http://www.ebi.ac.uk/efo) (EFO).
 
 
 For example the following terms (and child terms below them) have been added:
@@ -32,7 +32,7 @@ We are using a few controlled vocabulary terms when describing control wells in 
 
 ### Processed Data Annotation
 
-Cellular phenotypes identified in studies are annotated with [Cellular Microscopy Phenotype Ontology](http://www.ebi.ac.uk/cmpo) terms where possible.  We are adding to this ontology as required. We are also recording whether the phenotypes were manually or automatically assigned ("Phenotype Score Type" in  the [controlled vocabulary and ontology sources](https://docs.google.com/spreadsheets/d/1S9of23dD8vY1QUv90RV_-Ugu0h6yTeNobuj92-OoSl8/edit?usp=sharing) spreadsheet).
+Cellular phenotypes identified in studies are annotated with [Cellular Microscopy Phenotype Ontology](http://www.ebi.ac.uk/cmpo) (CMPO) terms where possible.  We are adding to this ontology as required, with nearly 40 new terms added since May 2015. For example, we have created a series of phenotypes describing [protein localization within nuclear sub compartments](http://www.ebi.ac.uk/ols/beta/ontologies/cmpo/terms?iri=http%3A%2F%2Fwww.ebi.ac.uk%2Fcmpo%2FCMPO_0000403).  We are also recording whether phenotypes were manually or automatically assigned ("Phenotype Score Type" in  the [controlled vocabulary and ontology sources](https://docs.google.com/spreadsheets/d/1S9of23dD8vY1QUv90RV_-Ugu0h6yTeNobuj92-OoSl8/edit?usp=sharing) spreadsheet).
 
 
 Data provided in processed/results files are described using both a free text description and by using a controlled vocabulary term to record the type of information in each column of the file.  The controlled vocabulary terms are given in the "Processed Data Column Type" row in the [controlled vocabulary and ontology sources](https://docs.google.com/spreadsheets/d/1S9of23dD8vY1QUv90RV_-Ugu0h6yTeNobuj92-OoSl8/edit?usp=sharing) spreadsheet.
